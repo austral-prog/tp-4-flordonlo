@@ -20,3 +20,4 @@ def line():
     print(f"\tP2 ({coef_X2}, {Y2})")
     print(" ")
     print(f"La distancia entre ellos es: {((float(X2-X1))**2+(float(Y2-Y1))**2)**(0.5)}")
+line()
